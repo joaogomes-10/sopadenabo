@@ -22,3 +22,5 @@ Retira do lume e serve de imediato.
 Informação nutricional (por dose):
 - Calorias: 120 kcal;
 - Proteínas: 3 g;
+- Fibra: 4 g;
+- Sal: 1 g;
